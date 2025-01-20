@@ -10,4 +10,13 @@ If you need to change the directories of in and out, edit the batch according to
 
 This program can be freely used by anyone. Hope this is useful to some physicists, radiologists and radiotherapists.
 
+------------------------------------------------------------------------------------------------------------------------
+20-Jan-2025
+
+Some people have requested that whether a Windows GUI is possible instead of the command and batch file. If this can help the community, why not? So wrote a smll GUI wrapper in VB.NET. Extract the archive and run the DCM2DCM.exe and you can use it. 
+
+
+
+
+
 
