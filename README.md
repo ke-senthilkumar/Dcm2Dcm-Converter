@@ -15,6 +15,8 @@ This program can be freely used by anyone. Hope this is useful to some physicist
 
 Some people have requested that whether a Windows GUI is possible instead of the command and batch file. If this can help the community, why not? So wrote a smll GUI wrapper in VB.NET. Extract the archive and run the DCM2DCM.exe and you can use it. 
 
+https://github.com/ke-senthilkumar/Dcm2Dcm-Converter/dcm2dcm.png
+
 
 
 
