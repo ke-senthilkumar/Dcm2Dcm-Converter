@@ -17,7 +17,11 @@ Some people have requested that whether a Windows GUI is possible instead of the
 
 ![Image](https://github.com/user-attachments/assets/1a3b1c30-5cf3-4377-90b0-bd0bbe46060d)
 
+------------------------------------------------------------------------------------------------------------------------
 
+30-Oct-2025
+
+One of the user reported that if the dicom files are in the DICOMDIR format, unable to use the utility. Investingated and found that the DICOMDIR files have no '.dcm' extension and the software is exclusively looking for .dcm files to avoid confusion/issue. if possible, include the extension as .dcm and try use. I will try to modify the utilility in the coming days.
 
 
 
