@@ -21,8 +21,8 @@ Some people have requested that whether a Windows GUI is possible instead of the
 
 30-Oct-2025
 
-One of the user reported that if the dicom files are in the DICOMDIR format, unable to use the utility. Investingated and found that the DICOMDIR files have no '.dcm' extension and the software is exclusively looking for .dcm files to avoid confusion/issue. if possible, include the extension as .dcm and try use. I will try to modify the utilility in the coming days.
+One of the user reported that if the dicom files are in the DICOMDIR format, unable to use the utility. Investingated and found that the DICOMDIR files have no '.dcm' extension and the software is exclusively looking for .dcm files to avoid confusion/issue. 
 
-
+Changed the batch file conversion to include all the files in the input folder(s) and maintain the directory structure for the output files too. But make sure the input folder(s) contain only dicom files !! The GUI still is not updated. Use only the batch file.
 
 
