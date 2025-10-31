@@ -15,7 +15,7 @@ This program can be freely used by anyone. Hope this is useful to some physicist
 
 Some people have requested that whether a Windows GUI is possible instead of the command and batch file. If this can help the community, why not? So wrote a smll GUI wrapper in VB.NET. Extract the archive and run the DCM2DCM.exe and you can use it. 
 
-![Image](https://github.com/user-attachments/assets/1a3b1c30-5cf3-4377-90b0-bd0bbe46060d)
+![Image](https://github.com/user-attachments/DCM2DCM.PNG)
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -23,6 +23,6 @@ Some people have requested that whether a Windows GUI is possible instead of the
 
 One of the user reported that if the dicom files are in the DICOMDIR format, unable to use the utility. Investingated and found that the DICOMDIR files have no '.dcm' extension and the software is exclusively looking for .dcm files to avoid confusion/issue. 
 
-Changed the batch file conversion to include all the files in the input folder(s) and maintain the directory structure for the output files too. But make sure the input folder(s) contain only dicom files !! The GUI still is not updated. Use only the batch file.
+Changed the batch file conversion to include all the files in the input folder(s) and maintain the directory structure for the output files. But make sure the input folder(s) contain only dicom files !! The GUI is also updated. 
 
 
